@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samer Anis</h1>
-<h3 align="center">A passionate frontend developer from Algeria</h3>
+<h3 align="center">A computer science / frontend developer from Algeria</h3>
 
 - 🌱 I’m currently learning **Express js , mongoDB**
 
@@ -15,6 +15,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/An1-sxd"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="An1-sxd" /></a><a href="https://ko-fi.com/An1-sxd"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="An1-sxd" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=an1-sxd&show_icons=true&locale=en&layout=compact" alt="an1-sxd" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=an1-sxd&show_icons=true&locale=en" alt="an1-sxd" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=an1-sxd&show_icons=true&locale=en&layout=compact" alt="an1-sxd" /></p>
