@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samer Anis</h1>
-<h3 align="center">A computer science / frontend developer from Algeria</h3>
+<h3 align="center">A computer science student / frontend developer from Algeria</h3>
 
 - 🌱 I’m currently learning **Express js , mongoDB**
 
