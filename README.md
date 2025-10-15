@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samer Anis</h1>
 <h3 align="center">A computer science student / frontend developer from Algeria</h3>
 
-- 🌱 I’m currently learning **Express js , mongoDB**
+- 🌱 I’m currently learning **Next js**
 
 - 📫 How to reach me **sameranis50@gmail.com**
 
