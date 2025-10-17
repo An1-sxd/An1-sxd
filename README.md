@@ -35,6 +35,40 @@
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux / redux toolkit" width="40" height="40"/>
   </a>
+   //
+<!-- Redux -->
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
+       alt="redux"
+       width="40"
+       height="40"
+       title="Redux"/>
+</a>
+
+<!-- Redux Toolkit (Redux logo + RTK text overlay) -->
+<a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer" style="position: relative; display: inline-block;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
+       alt="redux toolkit"
+       width="40"
+       height="40"
+       style="filter: brightness(0.9) saturate(1.1);"
+       title="Redux Toolkit"/>
+  <span style="
+        position: absolute;
+        bottom: -4px;
+        right: -6px;
+        background-color: #764abc;
+        color: white;
+        font-size: 10px;
+        font-weight: bold;
+        padding: 1px 3px;
+        border-radius: 3px;
+        font-family: sans-serif;">
+    RTK
+  </span>
+</a>
+
+   //
   <a href="https://tanstack.com/query/latest" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/TanStack/query/main/media/emblem-light.svg" alt="react query" width="40" height="40"/>
   </a>
