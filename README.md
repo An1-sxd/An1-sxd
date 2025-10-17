@@ -42,9 +42,6 @@
   <a href="https://react-hook-form.com/" target="_blank" rel="noreferrer">
     <img src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.svg" alt="react hook form" width="40" height="40"/>
   </a>
-  <a href="https://react-hot-toast.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/timolins/react-hot-toast/main/media/logo.svg" alt="react hot toast" width="40" height="40"/>
-  </a>
   <a href="https://styled-components.com/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" alt="styled components" width="40" height="40"/>
   </a>
