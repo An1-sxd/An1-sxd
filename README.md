@@ -1,3 +1,13 @@
+<h1 align="center">Hi 👋, I'm Samer Anis</h1>
+<h3 align="center">A data science student / mern stack developer</h3>
+
+- 🌱 I’m currently learning Next js + Express js + Mongo db
+
+- 📫 How to reach me sameranis50@gmail.com
+
+<h3 align="left">Technologies :</h3>
+
+
 | Languages | Tools | Frontend | Backend | Database | Data Analysis |
 |-----------|-------|----------|---------|----------|---------------|
 | <div align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/><br>C</div> | <div align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/><br>Git</div> | <div align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/><br>HTML</div> | <div align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/><br>Node.js</div> | <div align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/><br>MySQL</div> | <div align="center"><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/python.svg" width="40"/><br>NumPy</div> |
