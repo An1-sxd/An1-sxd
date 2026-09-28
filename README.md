@@ -2,7 +2,6 @@
 <h3 align="center">A data science student / mern stack developer</h3>
 
 - 🌱 I’m currently learning Deep learning with pytorch
-- 
 
 - 📫 How to reach me sameranis50@gmail.com
 
