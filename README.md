@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samer Anis</h1>
-<h3 align="center">A data science student / mern stack developer</h3>
+<h3 align="center">Data Science Engineering Student | AI & Machine Learning Enthusiast</h3>
 
 * 🌱 I’m currently learning Deep learning with pytorch
 
